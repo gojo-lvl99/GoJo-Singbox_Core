@@ -21,14 +21,14 @@
     {
       "type": "shadowsocks",
       "method": "chacha20-ietf-poly1305",
-      "password": "PALITAN-MO-ITO",
+      "password": "5gxpWXZ=Q_|RQIkUbNa$KA)B,ID,3%.p]>TVB*ywFIii",
       "listen": "0.0.0.0",
       "listen_port": 8080,
       "sniff": true,
       "sniff_override_destination": true,
       "transport": {
         "type": "ws",
-        "path": "/ss-ws"
+        "path": "/Gojo/cursed-technique/reversal"
       }
     }
   ],
